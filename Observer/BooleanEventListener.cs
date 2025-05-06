@@ -1,0 +1,1 @@
+﻿public class BooleanEventListener : EventListener<bool> { }
